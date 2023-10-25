@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Melisa
-- 👀 I’m new in Github
+- 👀 I’m new to Github
 - 🌱 I’m currently learning C++
 - 💻I am a freshman computer engineering student at Sakarya University
 
